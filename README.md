@@ -30,5 +30,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shariftasrik&show_icons=true&locale=en&layout=compact" alt="shariftasrik" /></p>
 
 <p>
-<img align="center" src="https://camo.githubusercontent.com/950ae9b36b95d783b4da601beec22dda56c5e2d7bd986b60eb4b8276ed822daa/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d736f6d6269743426" alt="shariftasrik" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=shariftasrik&amp;" style="max-width: 100%;">
+<img align="center" src="https://camo.githubusercontent.com/" alt="shariftasrik" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=shariftasrik&amp;" style="max-width: 100%;">
 </p>
