@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shariftasrik](https://github.com/shariftasrik)
 
-- 💬 Ask me about **C++, Java, Flutter**
+- 💬 Ask me about **C, C++, Java, Python, Javascript, Flutter**
 
 - 📫 How to reach me **shariftasrik12@gmail.com**
 
