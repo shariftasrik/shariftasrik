@@ -29,6 +29,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shariftasrik&show_icons=true&locale=en&layout=compact" alt="shariftasrik" /></p>
 
-<p>
-<img align="center" src="https://camo.githubusercontent.com/" alt="shariftasrik" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=shariftasrik&amp;" style="max-width: 100%;">
-</p>
+
