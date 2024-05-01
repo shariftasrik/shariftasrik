@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariftasrik&label=Profile%20views&color=0e75b6&style=flat" alt="shariftasrik" /> </p>
 
-[![shariftasrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=shariftasrik&theme=dark&show_icons=true)]
+![shariftasrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=shariftasrik&theme=dark&show_icons=true)
 
 - 🌱 I’m currently learning **MERN Stack, JAVA, advanced problem solving**
 
