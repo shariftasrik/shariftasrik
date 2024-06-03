@@ -1,7 +1,9 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shariftasrik&label=Profile%20views&color=0e75b6&style=flat" alt="shariftasrik" /> </p>
+
 <h1 align="center">Hi 👋, I'm Nimur Rahman Sharif</h1>
 <h3 align="center">A Passionate Computer Science Engineer | Dedicated problem solver | Aspiring developer | Coding Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shariftasrik&label=Profile%20views&color=0e75b6&style=flat" alt="shariftasrik" /> </p>
+
 
 
 
