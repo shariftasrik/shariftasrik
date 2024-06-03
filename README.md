@@ -29,9 +29,9 @@
 
 <div>
    ![shariftasrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=shariftasrik&theme=dark&show_icons=true)
-   <p>
+   <div>
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shariftasrik&show_icons=true&locale=en&layout=compact" alt="shariftasrik" />
-   </p>
+   </div>
 
 </div>
    
