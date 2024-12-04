@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariftasrik&label=Profile%20views&color=0e75b6&style=flat" alt="shariftasrik" /> </p>
 
-<h1 align="center">Hi 👋, I'm Nimur Rahman Sharif</h1>
+<h1 align="center">Hi,this is Tasrik</h1>
 <h3 align="center"> Dedicated Problem Solver | Aspiring Developer </h3>
 
 
