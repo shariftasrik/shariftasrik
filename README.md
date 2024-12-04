@@ -1,13 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariftasrik&label=Profile%20views&color=0e75b6&style=flat" alt="shariftasrik" /> </p>
 
 <h1 align="center">Hi 👋, I'm Nimur Rahman Sharif</h1>
-<h3 align="center">A Passionate Computer Science Engineering Undergrade | Dedicated problem solver | Aspiring developer </h3>
+<h3 align="center"> Dedicated Problem Solver | Aspiring Developer </h3>
 
 
 
 
 
-- 🌱 I’m currently learning **Web Development, JavaScript, advanced problem solving with DSA**
+- 🌱 I’m currently learning **Problem Solving(DSA), Web Development(JavaScript),and Machine Learning(Python)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shariftasrik](https://github.com/shariftasrik)
 
