@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shariftasrik](https://github.com/shariftasrik)
 
-- 💬 Ask me about **C, C++, Python, Javascript**
+- 💬 Ask me about **C, C++, ReactJS, NodeJS, ExpressJS, PostgreSQL, php, Laravel, Python, Dart**
 
 - 📫 How to reach me **shariftasrik12@gmail.com**
 
