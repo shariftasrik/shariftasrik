@@ -26,11 +26,11 @@ I’m a Full-Stack Software Engineer experienced in building modern web applicat
 
 ---
 
-## Streak Graph
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shariftasrik&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+## 🔥 GitHub Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shariftasrik&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="streak graph" />
+</p>
+  
 
 ---
 
