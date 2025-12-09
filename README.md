@@ -63,12 +63,6 @@ I’m currently doing an Angular & Spring Boot internship at Dohatec New Media, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />&nbsp;
 </p>
 
----
-
-## 🔥 GitHub Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shariftasrik&theme=dracula&hide_border=false&border_radius=5" height="200" alt="GitHub Streak"/>
-</p>
 
 ---
 
