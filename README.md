@@ -24,27 +24,8 @@ I’m a Full-Stack Software Engineer experienced in building modern web applicat
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
 </p>
 
-## Projects
-
-### Cravings
-
-Cravings is an online multi-restaurant food ordering app offering diverse cuisines. Explore menus, customize meals, and enjoy quick delivery. With features like favorites, order tracking, and secure payments, it simplifies food ordering. Craving is your go-to platform for delicious meals delivered effortlessly.
-
-[View Project](https://cravings-tasrik.42web.io/)
-
 ---
 
-### CPU Scheduling Simulator
-
-CPU-Scheduling-Simulator application is specifically designed for CSE undergraduate students who are studying Operating Systems theory and lab courses, helping them better understand CPU scheduling concepts through interactive visualization and practical simulation tools.
-
-[View Project](https://github.com/shariftasrik/cpu-scheduling-simulator)
-
----
-
-## GitHub Stats
-
-<img src="https://profile-counter.glitch.me/shariftasrik/count.svg?" alt="visitors count" />
 
 ## GitHub Activity Graph
 
