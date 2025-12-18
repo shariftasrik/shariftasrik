@@ -53,3 +53,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shariftasrik&radius=16&theme=react&area=true" height="300"/>
 </p>
+
+
+<img src="https://raw.githubusercontent.com/shariftasrik/shariftasrik/output/snake.svg" alt="Snake animation" />
+
+###
