@@ -81,7 +81,6 @@ I’m pursuing my B.Sc. in Computer Science & Engineering at AUST. Alongside sof
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shariftasrik&theme=github-compact&hide_border=true&bg_color=0d1117&color=0066cc&line=4da6ff&point=b3d9ff" alt="Activity Graph" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=shariftasrik&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -96,7 +95,9 @@ I’m pursuing my B.Sc. in Computer Science & Engineering at AUST. Alongside sof
 <a href="https://twitter.com/@tasrik_12">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
-
+<a href="https://www.youtube.com/@its_Tasrik">
+  <img src="https://img.shields.io/badge/YouTube-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
 
 </div>
 
