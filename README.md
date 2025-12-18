@@ -72,7 +72,6 @@ I’m pursuing my B.Sc. in Computer Science & Engineering at AUST. Alongside sof
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shariftasrik&theme=dark&hide_border=true&stroke=0066cc&ring=4da6ff&fire=b3d9ff&currStreakLabel=0066cc" alt="GitHub Streak" />
 
 </div>
 
