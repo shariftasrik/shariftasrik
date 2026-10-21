@@ -4,12 +4,12 @@
 
 **SOFTWARE ENGINEER**
 
-# Software people can rely on.
+# Turning artificial intelligence into real-world innovation!
 
-I am Nimur Rahman Sharif, a software engineer in Dhaka. I build APIs, data layers, and the product around them, and I ship that work to production.
+I'm Nimur Rahman Sharif, a Software Engineer specializing in Generative AI and full-stack development. I turn complex ideas and manual workflows into intelligent, scalable software products, from architecture to production.
 
-![Backend](https://img.shields.io/badge/Backend-1c1c1c?style=flat&labelColor=1c1c1c&color=1c1c1c)
 ![Web](https://img.shields.io/badge/Web-1c1c1c?style=flat&labelColor=1c1c1c&color=1c1c1c)
+![Backend](https://img.shields.io/badge/Backend-1c1c1c?style=flat&labelColor=1c1c1c&color=1c1c1c)
 ![AI / ML](https://img.shields.io/badge/AI%20%2F%20ML-1c1c1c?style=flat&labelColor=1c1c1c&color=1c1c1c)
 
 <br>
