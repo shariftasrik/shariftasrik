@@ -35,11 +35,11 @@ I am Nimur Rahman Sharif, a Software Engineer. I build systems, APIs, data layer
 <tr>
 <td width="58%" valign="middle">
 
-### I build software people can trust in production.
+### I build software that people can trust in production.
 
-I am Nimur Rahman Sharif. I make the part of a product that has to keep working after launch: authenticated APIs, data layers, and the screens when a small team needs one person to hold both.
+I am Nimur Rahman Sharif (Tasrik). I turn complex product ideas into production-ready software, combining Generative AI, RAG pipelines, and intelligent automation with secure APIs, scalable backend systems, and intuitive web applications. From architecture to deployment, I engineer the complete system, not just the AI feature.
 
-From August to September 2026 I was the contract backend engineer on [Outlio](https://outlio.ai) for SteadyTurtles. Before that I interned at Dohatec New Media, where I built the Procurement Management System.
+From August to September 2026 I was the contract backend engineer on [Outlio](https://outlio.ai) for SteadyTurtles. Before that I completed my internship at Dohatec New Media, where I was under the supervision of the Procurement Management System (e-GP) team.
 
 I hold a B.Sc. in Computer Science and Engineering from Ahsanullah University of Science and Technology.
 
