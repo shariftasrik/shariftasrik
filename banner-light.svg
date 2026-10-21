@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Nimur Rahman Sharif, software engineer in Dhaka">
+  <rect width="1200" height="300" fill="#f6f8fa"/>
+  <rect width="8" height="300" fill="#0f766e"/>
+  <text x="56" y="96" fill="#656d76" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" letter-spacing="3.2">SOFTWARE ENGINEER  ·  DHAKA</text>
+  <text x="56" y="162" fill="#1f2328" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700">Nimur Rahman Sharif</text>
+  <text x="56" y="214" fill="#424a53" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22">I build backends that stay correct after the demo.</text>
+  <text x="56" y="262" fill="#6e7781" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">Spring Boot  ·  Node.js  ·  PostgreSQL  ·  The Logits</text>
+</svg>

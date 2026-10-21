@@ -1,129 +1,154 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0066cc&center=true&vCenter=true&width=600&lines=Hi+there!+üëã+I'm+Tasrik;Full+Stack+Software+Engineer;Welcome+to+my+GitHub!+üöÄ" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
+  <img alt="Nimur Rahman Sharif, software engineer in Dhaka. I build backends that stay correct after the demo." src="./banner-light.svg" width="100%">
+</picture>
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/portfolio-111111?style=flat&logo=vercel&logoColor=white)](https://portfolio-tasrik.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimur-rahman-sharif-946108349/)
+[![Email](https://img.shields.io/badge/email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shariftasrik12@gmail.com)
+[![Outlio](https://img.shields.io/badge/Outlio-111111?style=flat&logo=googlechrome&logoColor=white)](https://outlio.ai)
 
 </div>
 
-## üåü About Me
+## About
 
-<div align="center">
+I am Nimur Rahman Sharif. On GitHub, Tasrik.
 
-*Hi! I‚Äôm Nimur Rahman Sharif Tasrik ‚Äî a Full-Stack Software Engineer passionate about building modern, and high-performance web applications. I build clean interfaces and scalable backend systems using React, Tailwind CSS, Node.js, Express, and PostgreSQL.
-I‚Äôm pursuing my B.Sc. in Computer Science & Engineering at AUST. Alongside software engineering, I‚Äôm exploring AI/ML for my thesis ‚Äî working on model development, data processing, and applied ML techniques.*
+I build the part of a product that has to stay correct after launch: authenticated APIs, usage limits, and queries that belong in the database. When the team is small, I ship the interface too.
+
+I founded [The Logits](https://www.linkedin.com/company/the-logits-ai). Through that work I am the contract backend engineer on [Outlio](https://outlio.ai) for SteadyTurtles. Outlio watches TikTok, Instagram, and YouTube, finds posts that beat an account's own average, and turns them into scripts and a content plan. My piece is the collection worker, the PostgreSQL layer, and the cost controls around scraping and model calls.
+
+Before that I interned at Dohatec New Media and built a procurement system in Java and Spring Boot. A tender moves from draft to published to awarded, with JWT, role-based access, and one bid per contractor.
+
+I am finishing a B.Sc. in Computer Science and Engineering at Ahsanullah University of Science and Technology this November. My research asks whether a language model can read a full Bangla murder-mystery novel, from a scanned page to a named murderer.
+
+I am open to a junior software engineer role on a team that treats the backend as the product.
+
+## Now
+
+- **Contract backend, [Outlio](https://outlio.ai)** at SteadyTurtles. August 2026 to present. Remote.
+- **Founder, [The Logits](https://www.linkedin.com/company/the-logits-ai).** January 2026 to present. Dhaka.
+- **Software engineer intern, Dohatec New Media.** November 2025 to December 2025. Dhaka.
+- **B.Sc. CSE, Ahsanullah University of Science and Technology.** November 2022 to November 2026.
+
+Certifications: The Complete Full-Stack Web Development Bootcamp (Udemy), Introduction to SQL (DataCamp), Introduction to Shell (DataCamp).
+
+## Selected work
 
 <table>
 <tr>
-<td><img src="https://img.shields.io/badge/üìç%20Location-Bangladesh-0066cc" alt="Location" /></td>
-<td><img src="https://img.shields.io/badge/üåê%20Website-Visit-4da6ff" alt="Website" /></td>
-<td><img src="https://img.shields.io/badge/üíº%20GitHub-shariftasrik-b3d9ff" alt="GitHub" /></td>
+<td width="50%" valign="top">
+
+### [Outlio](https://outlio.ai)
+
+Content intelligence for short-form video, live for SteadyTurtles. I moved collection onto a Node.js worker with retries, a circuit breaker, handle quarantine, and a daily cost cap. Supabase PostgreSQL holds row-level security, plan limits, and atomic usage metering. Watch-stats run in SQL, which cut Radar latency, and cheaper model routing cut LLM cost.
+
+Next.js ∑ Node.js ∑ TypeScript ∑ Supabase ∑ PostgreSQL ∑ Sentry
+
+</td>
+<td width="50%" valign="top">
+
+### [Procurement Management System](https://github.com/shariftasrik/My_Internship_Dohatec)
+
+Dohatec New Media internship. REST APIs for tenders, bids, and evaluations, secured with Spring Security, JWT access and refresh tokens, and role-based access. One bid per contractor. Remaining bids are rejected when a tender is awarded. Angular screens for the people running the workflow.
+
+Java ∑ Spring Boot ∑ Spring Security ∑ Angular ∑ PostgreSQL
+
+</td>
 </tr>
-</table>
-
-</div>
-
-## üöÄ Tech Stack
-
-<div align="center">
-
-### üíª Languages
-<p>
-<img src="https://img.shields.io/badge/JavaScript-0066cc" alt="JavaScript" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/Python-0066cc" alt="Python" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/C%2B%2B-0066cc" alt="C++" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/Java-0066cc" alt="Java" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/HTML-0066cc" alt="HTML" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/CSS-0066cc" alt="CSS" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/Dart-0066cc" alt="Dart" style="margin: 2px;" />
-</p>
-
-### ‚ö° Frameworks & Libraries
-<p>
-<img src="https://img.shields.io/badge/React-4da6ff" alt="React" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/Angular-4da6ff" alt="Angular" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/Node.js-4da6ff" alt="Node.js" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/Express.js-4da6ff" alt="Express.js" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/Flutter-4da6ff" alt="Flutter" style="margin: 2px;" />
-</p>
-
-### üóÑÔ∏è Databases
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-b3d9ff" alt="PostgreSQL" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/MongoDB-b3d9ff" alt="MongoDB" style="margin: 2px;" />
-</p>
-
-</div>
-
-## üìä GitHub Analytics
-
-<div align="center">
-
-<table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shariftasrik&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&title_color=0066cc&icon_color=4da6ff&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
+### [AUST CSE Society](https://github.com/shariftasrik/aust-cse-society)
+
+Campus app for the AUST CSE Society: a student feed, course resources, alumni referrals, and hiring posts. ASP.NET Identity with Admin and User roles, plus posts, likes, comments, favorites, and hashtags.
+
+C# ∑ ASP.NET Core MVC ∑ Entity Framework Core ∑ SQL Server
 
 </td>
-<td>
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariftasrik&theme=dark&hide_border=true&layout=compact&title_color=0066cc&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+### [Text-to-SQL](https://github.com/shariftasrik/text-to-sql)
+
+A natural-language question goes in, executable SQL comes out. I fine-tuned T5 on SPIDER and placed the database schema in the model input so it can pick the right columns.
+
+Python ∑ PyTorch ∑ Hugging Face ∑ T5 ∑ SQL
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [EPZExport](https://github.com/shariftasrik/EPZExport)
+
+Export-performance prediction over 5,000+ Export Processing Zone records. Compared Random Forest, J48, and SMO. J48 reached 97.2% accuracy on that set. K-Means found operational profiles. Apriori pulled association rules a person can read.
+
+Java ∑ WEKA ∑ classification ∑ clustering
+
+</td>
+<td width="50%" valign="top">
+
+### [Cravings](https://github.com/shariftasrik/Cravings)
+
+Multi-restaurant food ordering for customers, owners, and admins. Passport.js for auth, real-time messaging over XMPP. [Live demo](https://cravings-tasrik.42web.io/).
+
+PHP ∑ Laravel ∑ MySQL ∑ Passport.js
 
 </td>
 </tr>
 </table>
 
+Also on GitHub: [CPU Scheduling Simulator](https://github.com/shariftasrik/cpu-scheduling-simulator) ([live](https://cpu-scheduling-simulator-tasrik.vercel.app/)), [portfolio](https://github.com/shariftasrik/portfolio), [dev_documentation](https://github.com/shariftasrik/dev_documentation), [NeetCode submissions](https://github.com/shariftasrik/neetcode-submissions).
 
-</div>
+## Research
 
-### üìà Advanced Analytics
+**Evaluating LLM proficiency in Bangla murder-mystery novel reasoning.** November 2025 to present.
 
-<div align="center">
+I am testing whether a model can read an entire Bangla murder mystery and name the murderer and the victim. The path runs from a scanned page through Bengali OCR, speaker-safe chunking, and retrieval (dense, BM25, fusion, then a reranker) to an event timeline and an eight-dimension suspect score. OCR word error rate was 4.3% and character error rate was 3.0%. On 62 characters, role F1 and identity F1 were both 1.00.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shariftasrik&theme=github-compact&hide_border=true&bg_color=0d1117&color=0066cc&line=4da6ff&point=b3d9ff" alt="Activity Graph" />
-
-
-</div>
-
-
-## üåê Connect With Me
+## Stack
 
 <div align="center">
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/nimur-rahman-sharif-946108349">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/@tasrik_12">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://www.youtube.com/@its_Tasrik">
-  <img src="https://img.shields.io/badge/YouTube-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,react,nextjs,angular,python,pytorch,postgres,supabase,mysql,mongodb,cs,dotnet,php,tailwind,cpp,c,laravel,huggingface,git,postman&perline=8&theme=dark">
+  <img alt="Java, Spring, Node.js, TypeScript, JavaScript, React, Next.js, Angular, Python, PyTorch, PostgreSQL, Supabase, MySQL, MongoDB, C#, .NET, PHP, Tailwind, C++, C, Laravel, Hugging Face, Git, Postman" src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,react,nextjs,angular,python,pytorch,postgres,supabase,mysql,mongodb,cs,dotnet,php,tailwind,cpp,c,laravel,huggingface,git,postman&perline=8&theme=light" />
+</picture>
 
 </div>
 
-## üì´ Get In Touch
+**Languages.** Java, C#, TypeScript, JavaScript, Python, C, C++, SQL.
+
+**Backend.** Spring Boot, Spring Security, Spring Data JPA, Node.js, Express, ASP.NET Core, Laravel, REST, Supabase.
+
+**Frontend.** Next.js, React, Angular, Tailwind CSS, Framer Motion, Three.js.
+
+**Data.** PostgreSQL, MySQL, MongoDB, SQL Server.
+
+**AI.** PyTorch, Hugging Face Transformers, T5, scikit-learn.
+
+**Tools.** Git, IntelliJ IDEA, VS Code, Postman, Swagger, Vercel, Sentry.
+
+## GitHub
 
 <div align="center">
 
-<a href="mailto:shariftasrik12@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0066cc" alt="Email" />
-</a>
-<a href="https://portfolio-tasrik.vercel.app/">
-  <img src="https://img.shields.io/badge/Website-4da6ff" alt="Website" />
-</a>
-
+<img height="165" alt="GitHub stats for shariftasrik" src="https://github-readme-stats.vercel.app/api?username=shariftasrik&show_icons=true&hide_border=true&include_all_commits=true&title_color=0f766e&icon_color=0f766e&text_color=c9d1d9&bg_color=0d1117" />
+<img height="165" alt="Top languages for shariftasrik" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariftasrik&layout=compact&hide_border=true&langs_count=8&title_color=0f766e&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
----
+## Contact
 
-<div align="center">
+Dhaka, Bangladesh.
 
-<img src="https://komarev.com/ghpvc/?username=shariftasrik&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
+- Email: [shariftasrik12@gmail.com](mailto:shariftasrik12@gmail.com)
+- Portfolio: [portfolio-tasrik.vercel.app](https://portfolio-tasrik.vercel.app/)
+- LinkedIn: [Nimur Rahman Sharif](https://www.linkedin.com/in/nimur-rahman-sharif-946108349/)
+- Product: [outlio.ai](https://outlio.ai)
 
-‚≠êÔ∏è **Thanks for visiting!** ‚≠êÔ∏è
-
-*"Hi! I‚Äôm Nimur Rahman Sharif Tasrik ‚Äî a Full-Stack Software Engineer passionate about building modern, and high-performance web applications. I build clean interfaces and scalable backend systems using React, Tailwind CSS, Node.js, Express, and PostgreSQL.
-I‚Äôm pursuing my B.Sc. in Computer Science & Engineering at AUST. Alongside software engineering, I‚Äôm exploring AI/ML for my thesis ‚Äî working on model development, data processing, and applied ML techniques."*
-
-</div>
+If you are hiring for backend or full-stack work, in Dhaka or remote, write to me.
