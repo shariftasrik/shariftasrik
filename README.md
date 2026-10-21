@@ -1,97 +1,151 @@
 <div align="center">
 
-<img src="./hero.png" width="100%" alt="Nimur Rahman Sharif, software engineer in Dhaka. I build backends that stay correct after the demo.">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=820&height=50&lines=Contract+backend+engineer+on+Outlio;Founder+of+The+Logits;Spring+Boot+%7C+Node.js+%7C+PostgreSQL;Finishing+B.Sc.+CSE+at+AUST" alt="Contract backend engineer on Outlio. Founder of The Logits. Spring Boot, Node.js, PostgreSQL. Finishing B.Sc. CSE at AUST.">
+<img src="./hero.png" width="100%" alt="Nimur Rahman Sharif, software engineer. Software people can rely on.">
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-111111?style=flat&logo=vercel&logoColor=white)](https://portfolio-tasrik.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimur-rahman-sharif-946108349/)
-[![Email](https://img.shields.io/badge/email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shariftasrik12@gmail.com)
-[![Outlio](https://img.shields.io/badge/Outlio-111111?style=flat&logo=googlechrome&logoColor=white)](https://outlio.ai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-f5f5f5?style=for-the-badge&logo=vercel&logoColor=111111&labelColor=f5f5f5&color=f5f5f5)](https://portfolio-tasrik.vercel.app/)
+[![Email](https://img.shields.io/badge/Email_me-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shariftasrik12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimur-rahman-sharif-946108349/)
+
+<img src="./stacks.png" width="100%" alt="Stacks I work with: Java, Spring, Node.js, TypeScript, React, Next.js, PostgreSQL, Python.">
 
 </div>
 
 ## About
 
-I am Nimur Rahman Sharif. On GitHub, Tasrik.
+<table>
+<tr>
+<td width="42%" valign="middle">
 
-I build the part of a product that has to stay correct after launch: authenticated APIs, usage limits, and queries that belong in the database. When the team is small, I ship the interface too.
+<img src="./about-photo.png" width="100%" alt="Portrait of Nimur Rahman Sharif">
 
-I founded [The Logits](https://www.linkedin.com/company/the-logits-ai). Through that work I am the contract backend engineer on [Outlio](https://outlio.ai) for SteadyTurtles. Outlio watches TikTok, Instagram, and YouTube, finds posts that beat an account's own average, and turns them into scripts and a content plan.
+</td>
+<td width="58%" valign="middle">
 
-I am finishing a B.Sc. in Computer Science and Engineering at Ahsanullah University of Science and Technology. I am open to a junior software engineer role on a team that treats the backend as the product.
+### I build software people can trust in production.
 
-## Experience
+I am Nimur Rahman Sharif. I make the part of a product that has to keep working after launch: authenticated APIs, data layers, and the screens when a small team needs one person to hold both.
 
-<img src="./experience.png" width="100%" alt="Experience: contract backend on Outlio, founder of The Logits, intern at Dohatec New Media, B.Sc. CSE at AUST.">
+From August to September 2026 I was the contract backend engineer on [Outlio](https://outlio.ai) for SteadyTurtles. Before that I interned at Dohatec New Media, where I built the Procurement Management System.
 
-## Selected work
+I hold a B.Sc. in Computer Science and Engineering from Ahsanullah University of Science and Technology.
 
-The reel below advances on its own. Each title underneath opens the live product or the repository.
+</td>
+</tr>
+</table>
 
-<img src="./carousel.gif" width="100%" alt="Project carousel: Outlio, Procurement System, AUST CSE Society, Text-to-SQL, EPZExport, and Cravings.">
+<img src="./stats.png" width="100%" alt="Graduate in CSE, contract backend on Outlio, Procurement Management System at Dohatec, Murder Mystery Solve with advanced RAG.">
 
-| | | |
-| --- | --- | --- |
-| **[Outlio](https://outlio.ai)** live | **[Procurement System](https://github.com/shariftasrik/My_Internship_Dohatec)** | **[AUST CSE Society](https://github.com/shariftasrik/aust-cse-society)** |
-| **[Text-to-SQL](https://github.com/shariftasrik/text-to-sql)** | **[EPZExport](https://github.com/shariftasrik/EPZExport)** | **[Cravings](https://cravings-tasrik.42web.io/)** live demo |
+## Projects
 
-Also on GitHub: [CPU Scheduling Simulator](https://cpu-scheduling-simulator-tasrik.vercel.app/) live, [portfolio](https://github.com/shariftasrik/portfolio), [dev_documentation](https://github.com/shariftasrik/dev_documentation), [NeetCode submissions](https://github.com/shariftasrik/neetcode-submissions).
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://outlio.ai"><img src="./card-outlio.png" width="100%" alt="Outlio, live content intelligence product"></a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/shariftasrik/My_Internship_Dohatec"><img src="./card-procurement.png" width="100%" alt="Procurement Management System"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/shariftasrik/aust-cse-society"><img src="./card-aust.png" width="100%" alt="AUST CSE Society"></a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://cravings-tasrik.42web.io/"><img src="./card-cravings.png" width="100%" alt="Cravings live demo"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="./card-mystery.png" width="100%" alt="Murder Mystery Solve, advanced RAG evaluation">
+
+</td>
+<td width="50%" valign="top">
+
+**Outlio** is the live product. **Procurement Management System**, **AUST CSE Society**, and **Cravings** open from the cards. **Murder Mystery Solve** is the thesis: an advanced RAG evaluation with no public repository yet.
+
+</td>
+</tr>
+</table>
+
+## Work
+
+Open a group to see the names and links. GitHub profiles cannot run a live filter, so each group opens and closes on its own.
+
+<details>
+<summary><b>Web development</b></summary>
+
+- [Outlio](https://outlio.ai)
+- [Procurement Management System](https://github.com/shariftasrik/My_Internship_Dohatec)
+- [AUST CSE Society](https://github.com/shariftasrik/aust-cse-society)
+- [Cravings](https://github.com/shariftasrik/Cravings) - [live demo](https://cravings-tasrik.42web.io/)
+- [Portfolio](https://portfolio-tasrik.vercel.app/)
+- [CPU Scheduling Simulator](https://github.com/shariftasrik/cpu-scheduling-simulator) - [live](https://cpu-scheduling-simulator-tasrik.vercel.app/)
+- [CineRental](https://github.com/shariftasrik/CineRental) - [live](https://cine-rental-rosy.vercel.app)
+- [PDF Extractor](https://github.com/shariftasrik/pdf_extractor) - [live](https://pdf-extractor-tasrik.vercel.app/)
+- [Edu-Aid](https://github.com/shariftasrik/Edu-Aid) - [live](https://edu-aid.vercel.app/)
+- [Orbit Atlas](https://github.com/shariftasrik/CG_Lab_Project) - [live](https://orbit-atlas-opal.vercel.app)
+- [Tic-Tac-Toe](https://github.com/shariftasrik/Tic-Tac-Toe) - [live](https://tic-tac-toe-nine-alpha-67.vercel.app)
+- [Todo List](https://github.com/shariftasrik/todo_list) - [live](https://todo-list-inky-mu-94.vercel.app)
+- [QuickNote](https://github.com/shariftasrik/QuickNote)
+
+</details>
+
+<details>
+<summary><b>AI / ML</b></summary>
+
+- Murder Mystery Solve - advanced RAG evaluation of a Bangla murder mystery (thesis)
+- [EPZExport](https://github.com/shariftasrik/EPZExport)
+- [Text-to-SQL](https://github.com/shariftasrik/text-to-sql)
+- [Breast cancer classification](https://github.com/shariftasrik/ml-binary-classification-breastcancer)
+- [SQL vs document RAG](https://github.com/shariftasrik/sql_vs_document_RAG)
+- [BrainCom](https://github.com/shariftasrik/BrainCom)
+- [Face mask detection](https://github.com/shariftasrik/face_mask_detection)
+
+</details>
+
+<details>
+<summary><b>Backend</b></summary>
+
+- [Outlio](https://outlio.ai)
+- [Procurement Management System](https://github.com/shariftasrik/My_Internship_Dohatec)
+- [Tender management system](https://github.com/shariftasrik/tender_management_system)
+- [Tender management system, MERN](https://github.com/shariftasrik/tender-management-system)
+- [my-finance](https://github.com/shariftasrik/my-finance)
+- [Expense tracker](https://github.com/shariftasrik/expense_tracker)
+
+</details>
+
+<details>
+<summary><b>Practice</b></summary>
+
+- [NeetCode submissions](https://github.com/shariftasrik/neetcode-submissions)
+- [dev_documentation](https://github.com/shariftasrik/dev_documentation)
+- [Angela Yu assignments](https://github.com/shariftasrik/Angela-Yu-s-Assignment-Submission)
+
+</details>
 
 ## Contributions
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/2dd4bf/shariftasrik" alt="GitHub contribution graph for shariftasrik" width="100%">
-
-<br>
-
-<img height="165" alt="GitHub stats for shariftasrik" src="https://github-readme-stats.vercel.app/api?username=shariftasrik&show_icons=true&hide_border=true&include_all_commits=true&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&bg_color=0d1117">
-<img height="165" alt="Top languages for shariftasrik" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariftasrik&layout=compact&hide_border=true&langs_count=8&title_color=2dd4bf&text_color=c9d1d9&bg_color=0d1117">
-
-<br>
-
-<img alt="GitHub streak for shariftasrik" src="https://streak-stats.demolab.com?user=shariftasrik&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=C9D1D9&dates=8B949E">
-
-<br>
-
-<img alt="Commit statistics for shariftasrik" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shariftasrik&theme=github_dark">
-<img alt="Productive time for shariftasrik" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shariftasrik&theme=github_dark">
+<img src="https://ghchart.rshah.org/f4a3c4/shariftasrik" alt="GitHub contribution graph for shariftasrik" width="100%">
 
 </div>
-
-## Stack
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,react,nextjs,angular,python,pytorch,postgres,supabase,mysql,mongodb,cs,dotnet,php,tailwind,cpp,c,laravel,huggingface,git,postman&perline=8&theme=dark">
-  <img alt="Java, Spring, Node.js, TypeScript, JavaScript, React, Next.js, Angular, Python, PyTorch, PostgreSQL, Supabase, MySQL, MongoDB, C#, .NET, PHP, Tailwind, C++, C, Laravel, Hugging Face, Git, Postman" src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,react,nextjs,angular,python,pytorch,postgres,supabase,mysql,mongodb,cs,dotnet,php,tailwind,cpp,c,laravel,huggingface,git,postman&perline=8&theme=light">
-</picture>
-
-</div>
-
-**Languages.** Java, C#, TypeScript, JavaScript, Python, C, C++, SQL.
-
-**Backend.** Spring Boot, Spring Security, Spring Data JPA, Node.js, Express, ASP.NET Core, Laravel, REST, Supabase.
-
-**Frontend.** Next.js, React, Angular, Tailwind CSS, Framer Motion, Three.js.
-
-**Data.** PostgreSQL, MySQL, MongoDB, SQL Server.
-
-**AI.** PyTorch, Hugging Face Transformers, T5, scikit-learn.
-
-**Tools.** Git, IntelliJ IDEA, VS Code, Postman, Swagger, Vercel, Sentry.
-
-## Research
-
-**Bangla murder-mystery reasoning.** November 2025 to present.
-
-I am testing whether a model can read an entire Bangla murder mystery and name the murderer and the victim. The path runs from a scanned page through Bengali OCR, speaker-safe chunking, and retrieval, to a timeline and a score for each suspect. OCR word error rate was 4.3%. On 62 characters, role F1 and identity F1 were both 1.00.
 
 ## Contact
+
+### Let's build something that lasts.
 
 Dhaka, Bangladesh.
 
